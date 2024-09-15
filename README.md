@@ -4,4 +4,4 @@
 
 ## Only works in Arch right now
 
-## Max Speed before error on MonkeyType: 308 wpm
+## Max Speed before error on MonkeyType: 395 wpm
