@@ -1,6 +1,6 @@
 # Ghost Type
 
-## Cheat in MonkeyType by taking a screenshot and pyautogui writes it out
+## Cheat in MonkeyType by taking a screenshot and pyautogui writes it out using OCR
 
 ## Only works in Arch right now
 
