@@ -1,5 +1,5 @@
 pytesseract
 opencv-python
-os
 pyautogui
 nltk
+Pillow
